@@ -1,0 +1,60 @@
+body{
+    /* display: flex; */
+    width: 500px;
+    margin: 0 auto; 
+    text-align: center;
+    background-color: rgb(180, 179, 179);
+}
+
+
+
+h1{
+    font-size: 25px;
+}
+h2{
+    font-size: 20px;
+    /* text-align: left;
+    margin-left: -20em; */
+
+}
+
+header{
+    text-align: center;
+    width: 500px;
+    padding: 10px;
+
+
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    padding: 5vh;
+}
+
+.fa-paper-plane:before{
+    margin-right: -5em;
+}
+
+
+.icon{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    margin-left: 3%;
+}
+.Name{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+
+}
+
+.border_radius {
+    display: flex;
+    border-radius: 20px/20px;
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-right: 3%;
+}
