@@ -7,7 +7,6 @@ body{
 }
 
 
-
 h1{
     font-size: 25px;
 }
@@ -57,4 +56,20 @@ header{
     margin-top: 1%;
     margin-left: 1%;
     margin-right: 3%;
+}
+
+.fa-heart {
+    color: rgb(102, 98, 98);
+    /* border: 1px solid black; */
+}
+
+.color-red {
+    color: rgb(226, 25, 25);
+    /* border: 1px solid black; */
+}
+
+
+
+.fa-heart:active {
+    color: rgb(231, 45, 45);
 }
